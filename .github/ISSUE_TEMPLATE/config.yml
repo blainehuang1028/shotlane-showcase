@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Shotlane Support
+    url: https://shotlane.vercel.app/support/
+    about: Read setup, permission, capture, OCR, and export guidance.
+  - name: Privacy Policy
+    url: https://shotlane.vercel.app/privacy/
+    about: Review Shotlane's local-first data and permission model.
