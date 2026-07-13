@@ -13,6 +13,7 @@
   <a href="https://shotlane.vercel.app/">Website</a> ·
   <a href="https://shotlane.vercel.app/support/">Support</a> ·
   <a href="https://shotlane.vercel.app/privacy/">Privacy</a> ·
+  <a href="CHANGELOG.md">Changelog</a> ·
   <a href="https://github.com/blainehuang1028/shotlane-showcase/issues">Feedback</a>
 </p>
 
