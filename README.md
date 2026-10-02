@@ -10,15 +10,25 @@
 </p>
 
 <p align="center">
-  <a href="https://shotlane.vercel.app/">Website</a> ·
-  <a href="https://shotlane.vercel.app/support/">Support</a> ·
-  <a href="https://shotlane.vercel.app/privacy/">Privacy</a> ·
+  <a href="https://shotlane.heyblaine.com/">Website</a> ·
+  <a href="https://shotlane.heyblaine.com/support/">Support</a> ·
+  <a href="https://shotlane.heyblaine.com/privacy/">Privacy</a> ·
   <a href="CHANGELOG.md">Changelog</a> ·
   <a href="https://github.com/blainehuang1028/shotlane-showcase/issues">Feedback</a>
 </p>
 
 > [!IMPORTANT]
 > This is Shotlane's public product and engineering showcase. It does not contain the production application source code, build system, signing configuration, bundled models, or release credentials. No license to Shotlane source code, binaries, branding, or media is granted by this repository.
+
+## Screenshot guides
+
+Step-by-step guides from the Shotlane team:
+
+- [Mac screenshot shortcuts](https://shotlane.heyblaine.com/guides/mac-screenshot-shortcuts/)
+- [Scrolling screenshots on Mac](https://shotlane.heyblaine.com/guides/scrolling-screenshot-mac/)
+- [Copy text from a screenshot](https://shotlane.heyblaine.com/guides/ocr-screenshot-mac/)
+- [Pin a screenshot above windows](https://shotlane.heyblaine.com/guides/pin-screenshot-mac/)
+- [中文截图教程](https://shotlane.heyblaine.com/zh/guides/)
 
 ## English
 
@@ -69,7 +79,7 @@ Shotlane 把截图、标注、OCR、取色、贴图参考和干净导出整合�
 | ![Shotlane 截图设置](assets/zh-Hans/02-capture-methods-output-and-behavior.png) | ![Shotlane 取色器](assets/zh-Hans/05-color-picker-loupe-values-contrast.png) |
 | ![Shotlane 导出设置](assets/zh-Hans/04-export-location-format-filename-rules.png) | ![Shotlane 权限页面](assets/zh-Hans/06-permissions-privacy-system-access.png) |
 
-如需报告问题或提出建议，请使用 [GitHub Issues](https://github.com/blainehuang1028/shotlane-showcase/issues/new/choose)。普通使用问题也可以查看 [Support](https://shotlane.vercel.app/support/)。
+如需报告问题或提出建议，请使用 [GitHub Issues](https://github.com/blainehuang1028/shotlane-showcase/issues/new/choose)。普通使用问题也可以查看 [Support](https://shotlane.heyblaine.com/support/)。
 
 ## Repository scope
 
