@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="assets/app-icon.png" width="96" height="96" alt="Shotlane app icon">
+  <img src="assets/app-icon.png" width="96" height="96" alt="SnipDone app icon">
 </p>
 
-<h1 align="center">Shotlane</h1>
+<h1 align="center">SnipDone</h1>
+
+<p align="center">Formerly Shotlane · 原 Shotlane</p>
 
 <p align="center">
   A local-first screenshot workflow for macOS.<br>
@@ -10,29 +12,29 @@
 </p>
 
 <p align="center">
-  <a href="https://shotlane.heyblaine.com/">Website</a> ·
-  <a href="https://shotlane.heyblaine.com/support/">Support</a> ·
-  <a href="https://shotlane.heyblaine.com/privacy/">Privacy</a> ·
+  <a href="https://snipdone.heyblaine.com/">Website</a> ·
+  <a href="https://snipdone.heyblaine.com/support/">Support</a> ·
+  <a href="https://snipdone.heyblaine.com/privacy/">Privacy</a> ·
   <a href="CHANGELOG.md">Changelog</a> ·
   <a href="https://github.com/blainehuang1028/shotlane-showcase/issues">Feedback</a>
 </p>
 
 > [!IMPORTANT]
-> This is Shotlane's public product and engineering showcase. It does not contain the production application source code, build system, signing configuration, bundled models, or release credentials. No license to Shotlane source code, binaries, branding, or media is granted by this repository.
+> This is SnipDone's public product and engineering showcase. It does not contain the production application source code, build system, signing configuration, bundled models, or release credentials. No license to SnipDone source code, binaries, branding, or media is granted by this repository.
 
 ## Screenshot guides
 
-Step-by-step guides from the Shotlane team:
+Step-by-step guides from the SnipDone team:
 
-- [Mac screenshot shortcuts](https://shotlane.heyblaine.com/guides/mac-screenshot-shortcuts/)
-- [Scrolling screenshots on Mac](https://shotlane.heyblaine.com/guides/scrolling-screenshot-mac/)
-- [Copy text from a screenshot](https://shotlane.heyblaine.com/guides/ocr-screenshot-mac/)
-- [Pin a screenshot above windows](https://shotlane.heyblaine.com/guides/pin-screenshot-mac/)
-- [中文截图教程](https://shotlane.heyblaine.com/zh/guides/)
+- [Mac screenshot shortcuts](https://snipdone.heyblaine.com/guides/mac-screenshot-shortcuts/)
+- [Scrolling screenshots on Mac](https://snipdone.heyblaine.com/guides/scrolling-screenshot-mac/)
+- [Copy text from a screenshot](https://snipdone.heyblaine.com/guides/ocr-screenshot-mac/)
+- [Pin a screenshot above windows](https://snipdone.heyblaine.com/guides/pin-screenshot-mac/)
+- [中文截图教程](https://snipdone.heyblaine.com/zh/guides/)
 
 ## English
 
-Shotlane brings capture, annotation, OCR, color picking, pinned references, and clean export into one native Mac workflow. Screenshot content and recognized text stay on the user's Mac.
+SnipDone brings capture, annotation, OCR, color picking, pinned references, and clean export into one native Mac workflow. Screenshot content and recognized text stay on the user's Mac.
 
 ### Product highlights
 
@@ -48,8 +50,8 @@ Shotlane brings capture, annotation, OCR, color picking, pinned references, and 
 
 | Capture and workflow | Color and local privacy |
 | --- | --- |
-| ![Shotlane capture settings](assets/en/02-capture-methods-output-and-behavior.png) | ![Shotlane color picker](assets/en/05-color-picker-loupe-values-contrast.png) |
-| ![Shotlane export settings](assets/en/04-export-location-format-filename-rules.png) | ![Shotlane permissions page](assets/en/06-permissions-privacy-system-access.png) |
+| ![SnipDone capture settings](https://snipdone.heyblaine.com/assets/app-pages/en/02-capture-methods-output-and-behavior.png) | ![SnipDone color picker](https://snipdone.heyblaine.com/assets/app-pages/en/05-color-picker-loupe-values-contrast.png) |
+| ![SnipDone export settings](https://snipdone.heyblaine.com/assets/app-pages/en/04-export-location-format-filename-rules.png) | ![SnipDone permissions page](https://snipdone.heyblaine.com/assets/app-pages/en/06-permissions-privacy-system-access.png) |
 
 ### Engineering notes
 
@@ -60,7 +62,7 @@ Shotlane brings capture, annotation, OCR, color picking, pinned references, and 
 
 ## 中文
 
-Shotlane 把截图、标注、OCR、取色、贴图参考和干净导出整合成一个原生 Mac 工作流。截图内容与识别文字都留在用户自己的 Mac 上。
+SnipDone 把截图、标注、OCR、取色、贴图参考和干净导出整合成一个原生 Mac 工作流。截图内容与识别文字都留在用户自己的 Mac 上。
 
 ### 产品能力
 
@@ -76,10 +78,10 @@ Shotlane 把截图、标注、OCR、取色、贴图参考和干净导出整合�
 
 | 截图与导出 | 取色与隐私 |
 | --- | --- |
-| ![Shotlane 截图设置](assets/zh-Hans/02-capture-methods-output-and-behavior.png) | ![Shotlane 取色器](assets/zh-Hans/05-color-picker-loupe-values-contrast.png) |
-| ![Shotlane 导出设置](assets/zh-Hans/04-export-location-format-filename-rules.png) | ![Shotlane 权限页面](assets/zh-Hans/06-permissions-privacy-system-access.png) |
+| ![SnipDone 截图设置](https://snipdone.heyblaine.com/assets/app-pages/zh-Hans/02-capture-methods-output-and-behavior.png) | ![SnipDone 取色器](https://snipdone.heyblaine.com/assets/app-pages/zh-Hans/05-color-picker-loupe-values-contrast.png) |
+| ![SnipDone 导出设置](https://snipdone.heyblaine.com/assets/app-pages/zh-Hans/04-export-location-format-filename-rules.png) | ![SnipDone 权限页面](https://snipdone.heyblaine.com/assets/app-pages/zh-Hans/06-permissions-privacy-system-access.png) |
 
-如需报告问题或提出建议，请使用 [GitHub Issues](https://github.com/blainehuang1028/shotlane-showcase/issues/new/choose)。普通使用问题也可以查看 [Support](https://shotlane.heyblaine.com/support/)。
+如需报告问题或提出建议，请使用 [GitHub Issues](https://github.com/blainehuang1028/shotlane-showcase/issues/new/choose)。普通使用问题也可以查看 [Support](https://snipdone.heyblaine.com/support/)。
 
 ## Repository scope
 
