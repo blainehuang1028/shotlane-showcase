@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Shotlane Support
-    url: https://shotlane.vercel.app/support/
+  - name: SnipDone Support
+    url: https://snipdone.heyblaine.com/support/
     about: Read setup, permission, capture, OCR, and export guidance.
   - name: Privacy Policy
-    url: https://shotlane.vercel.app/privacy/
-    about: Review Shotlane's local-first data and permission model.
+    url: https://snipdone.heyblaine.com/privacy/
+    about: Review SnipDone's local-first data and permission model.

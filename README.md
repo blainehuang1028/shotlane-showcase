@@ -16,7 +16,7 @@
   <a href="https://snipdone.heyblaine.com/support/">Support</a> ·
   <a href="https://snipdone.heyblaine.com/privacy/">Privacy</a> ·
   <a href="CHANGELOG.md">Changelog</a> ·
-  <a href="https://github.com/blainehuang1028/shotlane-showcase/issues">Feedback</a>
+  <a href="https://github.com/blainehuang1028/snipdone-showcase/issues">Feedback</a>
 </p>
 
 > [!IMPORTANT]
@@ -81,7 +81,7 @@ SnipDone 把截图、标注、OCR、取色、贴图参考和干净导出整合�
 | ![SnipDone 截图设置](https://snipdone.heyblaine.com/assets/app-pages/zh-Hans/02-capture-methods-output-and-behavior.png) | ![SnipDone 取色器](https://snipdone.heyblaine.com/assets/app-pages/zh-Hans/05-color-picker-loupe-values-contrast.png) |
 | ![SnipDone 导出设置](https://snipdone.heyblaine.com/assets/app-pages/zh-Hans/04-export-location-format-filename-rules.png) | ![SnipDone 权限页面](https://snipdone.heyblaine.com/assets/app-pages/zh-Hans/06-permissions-privacy-system-access.png) |
 
-如需报告问题或提出建议，请使用 [GitHub Issues](https://github.com/blainehuang1028/shotlane-showcase/issues/new/choose)。普通使用问题也可以查看 [Support](https://snipdone.heyblaine.com/support/)。
+如需报告问题或提出建议，请使用 [GitHub Issues](https://github.com/blainehuang1028/snipdone-showcase/issues/new/choose)。普通使用问题也可以查看 [Support](https://snipdone.heyblaine.com/support/)。
 
 ## Repository scope
 

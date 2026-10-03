@@ -1,10 +1,10 @@
 # Architecture overview
 
-This document describes Shotlane at a system-boundary level. It intentionally omits production source code, private implementation details, signing material, and build instructions.
+This document describes SnipDone at a system-boundary level. It intentionally omits production source code, private implementation details, signing material, and build instructions.
 
 ## Design goals
 
-Shotlane is designed around four constraints:
+SnipDone is designed around four constraints:
 
 1. Capture should feel immediate and remain responsive while the selection changes.
 2. Annotation should be editable instead of producing irreversible pixels too early.

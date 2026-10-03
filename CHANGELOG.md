@@ -1,4 +1,4 @@
-# Shotlane changelog
+# SnipDone changelog
 
 This public changelog records user-visible product milestones. It does not mirror private source history.
 

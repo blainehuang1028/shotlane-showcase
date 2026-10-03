@@ -1,5 +1,5 @@
 name: Bug report
-description: Report reproducible Shotlane behavior
+description: Report reproducible SnipDone behavior
 title: "[Bug] "
 labels:
   - bug
@@ -7,11 +7,11 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping improve Shotlane. Do not attach private screenshots, clipboard contents, file paths, or other sensitive data.
+        Thanks for helping improve SnipDone. Do not attach private screenshots, clipboard contents, file paths, or other sensitive data.
   - type: input
     id: version
     attributes:
-      label: Shotlane version
+      label: SnipDone version
       placeholder: "1.0.0 (build number)"
     validations:
       required: true

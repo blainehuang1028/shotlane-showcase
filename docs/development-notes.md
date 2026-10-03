@@ -1,6 +1,6 @@
 # Development notes
 
-Shotlane is built as a native macOS utility rather than a web wrapper. This public log records product-level engineering decisions without publishing the production implementation.
+SnipDone is built as a native macOS utility rather than a web wrapper. This public log records product-level engineering decisions without publishing the production implementation.
 
 ## Interaction work
 

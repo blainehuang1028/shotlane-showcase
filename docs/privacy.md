@@ -1,6 +1,6 @@
 # Privacy model
 
-Shotlane is local-first by design. Its core screenshot workflow does not require an account or remote service.
+SnipDone is local-first by design. Its core screenshot workflow does not require an account or remote service.
 
 ## Data that stays on the Mac
 
@@ -12,11 +12,11 @@ Shotlane is local-first by design. Its core screenshot workflow does not require
 - Save locations, filenames, and cleanup preferences
 - Shortcut configuration and local diagnostic records
 
-Shotlane does not include product analytics, advertising identifiers, telemetry, remote crash reporting, or screenshot sync.
+SnipDone does not include product analytics, advertising identifiers, telemetry, remote crash reporting, or screenshot sync.
 
 ## Permissions
 
-Shotlane requests macOS permissions only when a feature needs them:
+SnipDone requests macOS permissions only when a feature needs them:
 
 - **Screen Recording** enables screen and window capture.
 - **Accessibility** enables stitched scrolling capture by controlling the active scrollable surface.
@@ -31,4 +31,4 @@ Text recognition runs locally using Apple Vision or an on-device recognition eng
 
 ## Public policy
 
-The current user-facing privacy policy is available at [shotlane.vercel.app/privacy](https://shotlane.vercel.app/privacy/).
+The current user-facing privacy policy is available at [snipdone.heyblaine.com/privacy](https://snipdone.heyblaine.com/privacy/).
